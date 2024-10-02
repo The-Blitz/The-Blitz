@@ -38,3 +38,6 @@ I'm a Backend Developer with a strong background in cloud computing and machine 
 ## 🚀 Current Focus
 - Deepening my knowledge in MLOps and DevOps
 - Preparing for the AWS Certified Developer exam
+- Studying for the JLPT N3 exam to enhance my Japanese language skills
+- Finalizing my preparation for the IELTS exam to improve my English proficiency
+

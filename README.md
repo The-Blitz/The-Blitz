@@ -35,7 +35,7 @@ I'm a Backend Developer with a strong background in cloud computing and machine 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="left" alt="Docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
-<br><br>
+<br><br><br><br>
 
 
 ## 🚀 Current Focus

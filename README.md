@@ -10,9 +10,11 @@
   </a>
  
 </div> 
+<br><br>
 
 ## About Me
 I'm a Backend Developer with a strong background in cloud computing and machine learning. I focus on scalable solutions and have a passion for machine learning and data engineering. Currently working on improving my skills in AI development.
+
 
 ## 🛠️ Technologies & Tools
 
@@ -33,7 +35,8 @@ I'm a Backend Developer with a strong background in cloud computing and machine 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="left" alt="Docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
-<br>
+<br><br>
+
 
 ## 🚀 Current Focus
 - Deepening my knowledge in MLOps and DevOps

@@ -2,11 +2,11 @@
 
 <div style="display: inline_block"><br>
   <a class="github-stats" href="https://github.com/The-Blitz/The-Blitz">
-    <img align="center" style="margin-right: 100px;" src="https://github-readme-stats.vercel.app/api?username=The-Blitz&count_private=true&show_icons=true&theme=tokyonight&hide=issues,stars" />
+    <img align="center" style="margin-right: 100px;" src="https://github-stats-extended.vercel.app/api?username=The-Blitz&count_private=true&show_icons=true&theme=tokyonight&hide=issues,stars" />
   </a>
 
   <a class="github-stats" href="https://github.com/The-Blitz/The-Blitz">
-    <img align="center" style="margin-left: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Blitz&langs_count=5&theme=tokyonight&layout=compact" />
+    <img align="center" style="margin-left: 100px;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=The-Blitz&langs_count=5&theme=tokyonight&layout=compact" />
   </a>
  
 </div> 
